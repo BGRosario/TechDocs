@@ -8,3 +8,4 @@
 * [Soft and Hard Links](soft-and-hard-links.md)
 * [Access Control list (ACL)](access-control-list-acl.md)
 * [Input and Output](input-and-output.md)
+* [Pipes |](pipes-or.md)
