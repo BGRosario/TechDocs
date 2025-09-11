@@ -9,3 +9,4 @@
 * [Access Control list (ACL)](access-control-list-acl.md)
 * [Input and Output](input-and-output.md)
 * [Pipes |](pipes-or.md)
+* [Cut - Txt Processor Commands](cut-txt-processor-commands.md)
