@@ -10,3 +10,5 @@
 * [Input and Output](input-and-output.md)
 * [Pipes |](pipes-or.md)
 * [Cut - Txt Processor Commands](cut-txt-processor-commands.md)
+* [AWK - Text Processor Commands](awk-text-processor-commands.md)
+* [Linux Permissions](linux-permissions.md)
