@@ -1,6 +1,12 @@
 # Table of contents
 
-* [Linux vs Windows](README.md)
+## Group 1
+
+* [LabEx Practices](README.md)
+
+***
+
+* [Linux vs Windows](<README (1).md>)
 * [What is CentOS vs CentOS Stream](what-is-centos-vs-centos-stream.md)
 * [File System Structure](file-system-structure.md)
 * [WildCards (\*,?,^,\[\])](wildcards.md)
