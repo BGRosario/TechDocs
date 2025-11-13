@@ -1,11 +1,6 @@
 # Table of contents
 
-## Group 1
-
-* [LabEx Practices](README.md)
-
-***
-
+* [Lesson 1. Understand Red Hat Enterprise Linux](README.md)
 * [Linux vs Windows](<README (1).md>)
 * [What is CentOS vs CentOS Stream](what-is-centos-vs-centos-stream.md)
 * [File System Structure](file-system-structure.md)
