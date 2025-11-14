@@ -1,6 +1,17 @@
 # Table of contents
 
 * [Lesson 1. Understand Red Hat Enterprise Linux](README.md)
+* [Lesson 2. Bash Shell](lesson-2.-bash-shell.md)
+* [Lesson 3. Essential Tools](lesson-3.-essential-tools/README.md)
+  * [Using an Editor](lesson-3.-essential-tools/using-an-editor.md)
+* [Lesson 4: Understanding The Bash Shell](lesson-4-understanding-the-bash-shell/README.md)
+  * [Using I/O Redirection and Piping](lesson-4-understanding-the-bash-shell/using-i-o-redirection-and-piping.md)
+  * [Exploring History](lesson-4-understanding-the-bash-shell/exploring-history.md)
+  * [Using Keyboard Shortcuts](lesson-4-understanding-the-bash-shell/using-keyboard-shortcuts.md)
+  * [Introducing Shell Expansion](lesson-4-understanding-the-bash-shell/introducing-shell-expansion.md)
+  * [Escaping Special Characters](lesson-4-understanding-the-bash-shell/escaping-special-characters.md)
+  * [Applying Variables](lesson-4-understanding-the-bash-shell/applying-variables.md)
+  * [Using Alias](lesson-4-understanding-the-bash-shell/using-alias.md)
 * [Linux vs Windows](<README (1).md>)
 * [What is CentOS vs CentOS Stream](what-is-centos-vs-centos-stream.md)
 * [File System Structure](file-system-structure.md)

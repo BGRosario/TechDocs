@@ -2,7 +2,7 @@
 
 Hard Link -> Hard links, what essentially does is it creates a name that points to the same datablock in that has the same inode number. Is pretty much one file with 2 different paths.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
