@@ -1,8 +1,4 @@
----
-description: This page will just describing the linux file system
----
-
-# File System Structure
+# Exploring the Filesystem Hierarchy
 
 ```
 /boot - Contains file that is used by the boot loader (grub.cfg)
@@ -23,3 +19,5 @@ runtime files like PID files
 /mnt - To mount an external filesystem (e.g. NFS)
 /media - For cdrom mounts
 ```
+
+More information can be found by doing **man file-hierarchy**
