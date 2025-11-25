@@ -1,8 +1,6 @@
----
-description: Lots of random $^#T in Linux
----
-
 # Lesson 4: Understanding The Bash Shell
+
+Lots of random $^#T in Linux
 
 <details>
 
@@ -23,6 +21,4 @@ description: Lots of random $^#T in Linux
 [using-alias.md](using-alias.md "mention")
 
 </details>
-
-
 

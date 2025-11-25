@@ -1,7 +1,3 @@
----
-description: This lesson will focus
----
-
 # Lesson 2. Bash Shell
 
 ### What is a shell?&#x20;

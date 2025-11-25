@@ -1,10 +1,8 @@
----
-description: >-
-  This course docs will be based on the RHCSA (RHEL 9) Course of Sander van Vugt
-  in O'Reilly.
----
-
 # Lesson 1. Understand Red Hat Enterprise Linux
+
+This course docs will be based on the RHCSA (RHEL 9) Course of Sander van Vugt in O'Reilly.
+
+
 
 * What is Linux OS
 
@@ -28,3 +26,4 @@ Linux OS is a free and open-source operating system based on Unix. It is widely 
 
 * It is a Linux distro that is offered for use by the org&#x20;
 * Lifecycle of 10 years
+

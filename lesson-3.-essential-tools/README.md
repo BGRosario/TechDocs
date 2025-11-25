@@ -1,8 +1,6 @@
----
-description: This will focus on how to use MAN, text editors etc.
----
-
 # Lesson 3. Essential Tools
+
+This will focus on how to use MAN, text editors etc.
 
 ### Using Man page
 
@@ -27,3 +25,4 @@ All sections are described in **man man**&#x20;
 * Use **`man -k` or `apropos`** to search the mandb based on a keyword&#x20;
 * The mandb is built automatically through a scheduled task
 * Manually trigger a rebuild using **sudo mandb**
+
