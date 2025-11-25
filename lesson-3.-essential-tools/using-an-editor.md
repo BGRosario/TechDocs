@@ -14,8 +14,7 @@ Linux configurations happens by modifying text files&#x20;
 Editors can modify text files shown above:
 
 * nano
-* vi/vim\
-
+* vi/vim<br>
 
 ### Below is a VIM cheat sheet that might be helpful...
 

@@ -26,8 +26,7 @@ description: >-
 * **SUID (Set User ID):**
   * **Octal value:** 4
   * **Effect on files:** When an executable file with SUID is run, it executes with the permissions of the file's owner, not the user who ran it. This is commonly used for programs that need elevated privileges to perform certain tasks, like the `passwd` command (which needs to write to `/etc/shadow`, a file owned by `root`).
-  * **In `ls -l` output:** An `s` appears in place of the owner's `x` (execute) permission. If the owner does not have execute permission, an uppercase `S` appears.\
-
+  * **In `ls -l` output:** An `s` appears in place of the owner's `x` (execute) permission. If the owner does not have execute permission, an uppercase `S` appears.<br>
 
 {% hint style="info" %}
 Note that SUID mainly focuses on executable files that _**need**_ to be _**compiled,**_ such as .c, for example, withthe  **gcc** command. \
@@ -39,8 +38,7 @@ It will not work with bash scripts (.sh) since newer&#x20;
   * **Octal value:** 2
   * **Effect on files:** Similar to SUID, but the executable runs with the permissions of the file's group owner.
   * **Effect on directories:** Files and subdirectories created within an SGID-enabled directory inherit the group ownership of that directory, rather than the primary group of the user who created them. This is very useful for shared directories where all files should belong to a specific group.
-  * **In `ls -l` output:** An `s` appears in place of the group's `x` (execute) permission. If the group does not have execute permission, an uppercase `S` appears.\
-
+  * **In `ls -l` output:** An `s` appears in place of the group's `x` (execute) permission. If the group does not have execute permission, an uppercase `S` appears.<br>
 * **Sticky Bit:**
   * **Octal value:** 1
   * **Effect on files:** No effect.
