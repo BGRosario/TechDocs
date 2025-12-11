@@ -10,8 +10,8 @@ This lesson will focus on understanding what a user root is and how to use it/ac
 
 [switching-user-with-su.md](switching-user-with-su.md "mention")
 
-[performing-administrator-task-with-sudo.md](performing-administrator-task-with-sudo.md "mention")
+[performing-administrator-task-with-sudo](performing-administrator-task-with-sudo/ "mention")
 
-[managing-sudo-configuration.md](managing-sudo-configuration.md "mention")
+[managing-sudo-configuration.md](performing-administrator-task-with-sudo/managing-sudo-configuration.md "mention")
 
 </details>
