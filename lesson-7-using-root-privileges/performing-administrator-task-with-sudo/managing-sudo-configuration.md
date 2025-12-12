@@ -24,7 +24,7 @@ Do NOT enable the line %**wheel ALL=(ALL) NOPASSWD:ALL**
 
 If you don't like entering your user password every five minutes, increase the authentication token expiration by adding the following (not on RHCSA)
 
-```
+```bash
 Defaults timestamp_type=global,timestamp_timeout=60
 ```
 
@@ -34,13 +34,13 @@ Defaults timestamp_type=global,timestamp_timeout=60
 
 Use drop-in files to provide admin access to specific tasks, for example
 
-```
+```bash
 User1 ALL=/sbin/useradd, /usr/bin/passwd 
 ```
 
 * Consider using command arguments to make the commands more spcific&#x20;
 
-```
+```bash
 - %users ALL=/bin/mount /dev/sdb, /bin/umount /dev/sdb
 - linda ALL=/usr/bin/passwd, !/usr/bin/passwd root
 ```
