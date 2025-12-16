@@ -1,20 +1,29 @@
----
-description: This page will go over the differences between these 2 Operating System
----
+# Lesson 1. Understand Red Hat Enterprise Linux
 
-# Linux vs Windows
+This course docs will be based on the RHCSA (RHEL 9) Course of Sander van Vugt in O'Reilly.
 
-### Security
 
-* Linux is generally considered more secure&#x20;
-* Windows: As you are part of the large user base for Windows, you are more likely to be a target of malware. Somewhat vulnerable
 
-### System Stability and Performance
+* What is Linux OS
 
-* Linux is known for its stability and performance
-* Windows, although it is stable, tends to slow down after some time&#x20;
+Linux OS is a free and open-source operating system based on Unix. It is widely used for its reliability, security, and flexibility. Linux serves as the underlying platform for many servers, desktops, and even mobile devices, with distributions like Ubuntu, CentOS, and Fedora catering to different user needs.
 
-### File System&#x20;
+#### The RHEL Family
 
-* Linux file systems are ext4, XFS, and Btrfs
-* The primary file systems in use are NTFS and FAT32
+* Red Hat participates in many OS projects, such as Fedora, a free community distro that is sponsored by RH
+
+#### Fedora
+
+* The focus is on the latest developments, and not so much on stability. Fedora has a 12-18 month lifecycle, and no support options _are available._&#x20;
+
+#### CentOS Stream&#x20;
+
+* Is the upstream dev platform for RHEL. It includes software from the Fedora project that has reached a stable state.&#x20;
+* Expected Life is 5 yrs
+* Not recommended for Production Env.
+
+#### RHEL
+
+* It is a Linux distro that is offered for use by the org&#x20;
+* Lifecycle of 10 years
+
