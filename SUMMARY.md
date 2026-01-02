@@ -1,7 +1,7 @@
 # Table of contents
 
 * [READ ME](README.md)
-* [Lesson 1. Understand Red Hat Enterprise Linux](<README (1).md>)
+* [Lesson 1. Understand Red Hat Enterprise Linux](lesson-1.-understand-red-hat-enterprise-linux.md)
 * [Lesson 2. Bash Shell](lesson-2.-bash-shell.md)
 * [Lesson 3. Essential Tools](lesson-3.-essential-tools/README.md)
   * [Using an Editor](lesson-3.-essential-tools/using-an-editor.md)
@@ -39,6 +39,14 @@
   * [Managing Group Membership](lesson-8-local-users-and-groups/managing-group-membership.md)
   * [Creating and Managing Groups](lesson-8-local-users-and-groups/creating-and-managing-groups.md)
   * [Setting Password Properties](lesson-8-local-users-and-groups/setting-password-properties.md)
+* [Lesson 9: Securing Files with Permissions](lesson-9-securing-files-with-permissions/README.md)
+  * [Understanding Ownership](lesson-9-securing-files-with-permissions/understanding-ownership.md)
+  * [Changing File Ownership](lesson-9-securing-files-with-permissions/changing-file-ownership.md)
+  * [Understanding Basic Permissions](lesson-9-securing-files-with-permissions/understanding-basic-permissions.md)
+  * [Managing Basic Permissions](lesson-9-securing-files-with-permissions/managing-basic-permissions.md)
+  * [Configuring Shared Group Directories](lesson-9-securing-files-with-permissions/configuring-shared-group-directories.md)
+  * [Applying Default Permissions](lesson-9-securing-files-with-permissions/applying-default-permissions.md)
+  * [Page 5](lesson-9-securing-files-with-permissions/page-5.md)
 * [Linux vs Windows](<README (1) (1).md>)
 * [What is CentOS vs CentOS Stream](what-is-centos-vs-centos-stream.md)
 * [Linux File Types](linux-file-types.md)
