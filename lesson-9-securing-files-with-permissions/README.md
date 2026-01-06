@@ -10,7 +10,7 @@
 
 [understanding-basic-permissions.md](understanding-basic-permissions.md "mention")
 
-[managing-basic-permissions.md](managing-basic-permissions.md "mention")
+[Broken link](/broken/pages/U1C05PodyepJj3Um2BaP "mention")
 
 [configuring-shared-group-directories.md](configuring-shared-group-directories.md "mention")
 

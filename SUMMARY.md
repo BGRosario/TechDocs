@@ -43,7 +43,6 @@
   * [Understanding Ownership](lesson-9-securing-files-with-permissions/understanding-ownership.md)
   * [Changing File Ownership](lesson-9-securing-files-with-permissions/changing-file-ownership.md)
   * [Understanding Basic Permissions](lesson-9-securing-files-with-permissions/understanding-basic-permissions.md)
-  * [Managing Basic Permissions](lesson-9-securing-files-with-permissions/managing-basic-permissions.md)
   * [Configuring Shared Group Directories](lesson-9-securing-files-with-permissions/configuring-shared-group-directories.md)
   * [Applying Default Permissions](lesson-9-securing-files-with-permissions/applying-default-permissions.md)
   * [Page 5](lesson-9-securing-files-with-permissions/page-5.md)
