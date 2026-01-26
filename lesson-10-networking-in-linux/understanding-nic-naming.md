@@ -14,5 +14,10 @@ Network interfaces need a device name, because IP address configuration needs to
 
 Classical naming is using device names like eth0, eth1 and so on&#x20;
 
-* These device names don't reveal&#x20;
+* These device names don't reveal any information about physical device location&#x20;
+* BIOS naming is based on hardware properties to gie more specific information in the device name&#x20;
+  * en\[1-N] for embedded NICS
+  * eno\[nn] for embedded NICS
+  * p\<slot>p\<port> for NICs oon the PCI bus&#x20;
+* If the driver doesn't reveal network device properties, classic naming is used&#x20;
 
