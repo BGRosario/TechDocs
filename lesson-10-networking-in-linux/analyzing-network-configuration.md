@@ -23,3 +23,6 @@ ip route show
 ip route add default via 10.0.0.1
 ```
 
+Most network packet analysis should be done on networking hardware for prod best practices. Any changes here are also not persistent, meaning that by reboot it will be gone. \
+\
+If you want to keep it, use network management (nmcli)

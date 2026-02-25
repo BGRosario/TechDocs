@@ -50,6 +50,7 @@
   * [Understanding NIC naming](lesson-10-networking-in-linux/understanding-nic-naming.md)
   * [Defining Host Names and Host Name Resolution](lesson-10-networking-in-linux/defining-host-names-and-host-name-resolution.md)
   * [Analyzing Network Configuration](lesson-10-networking-in-linux/analyzing-network-configuration.md)
+  * [NetworkManager](lesson-10-networking-in-linux/networkmanager.md)
 * [Linux vs Windows](<README (1) (1).md>)
 * [What is CentOS vs CentOS Stream](what-is-centos-vs-centos-stream.md)
 * [Linux File Types](linux-file-types.md)
