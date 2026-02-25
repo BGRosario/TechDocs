@@ -48,7 +48,7 @@
 * [Lesson 10: Networking in Linux ](lesson-10-networking-in-linux/README.md)
   * [Exploring IPv6](lesson-10-networking-in-linux/exploring-ipv6.md)
   * [Understanding NIC naming](lesson-10-networking-in-linux/understanding-nic-naming.md)
-  * [Defining Host Names and Host Name resolution](lesson-10-networking-in-linux/defining-host-names-and-host-name-resolution.md)
+  * [Defining Host Names and Host Name Resolution](lesson-10-networking-in-linux/defining-host-names-and-host-name-resolution.md)
 * [Linux vs Windows](<README (1) (1).md>)
 * [What is CentOS vs CentOS Stream](what-is-centos-vs-centos-stream.md)
 * [Linux File Types](linux-file-types.md)
