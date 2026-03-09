@@ -52,6 +52,7 @@
   * [Analyzing Network Configuration](lesson-10-networking-in-linux/analyzing-network-configuration.md)
   * [NetworkManager](lesson-10-networking-in-linux/networkmanager.md)
   * [Managing Persistent Network Configuration with nmcli](lesson-10-networking-in-linux/managing-persistent-network-configuration-with-nmcli.md)
+* [Troubleshooting Network](troubleshooting-network.md)
 * [Linux vs Windows](<README (1) (1).md>)
 * [What is CentOS vs CentOS Stream](what-is-centos-vs-centos-stream.md)
 * [Linux File Types](linux-file-types.md)
