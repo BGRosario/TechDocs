@@ -6,7 +6,7 @@
 
 [understanding-rpm-packages.md](understanding-rpm-packages.md "mention")
 
-[setting-up-repository-access.md](setting-up-repository-access.md "mention")
+[setting-up-repository-access](setting-up-repository-access/ "mention")
 
 [managing-pckages-with-dnf.md](managing-pckages-with-dnf.md "mention")
 
