@@ -1,2 +1,0 @@
-# Managing Pckages with dnf
-

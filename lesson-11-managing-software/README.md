@@ -8,7 +8,7 @@
 
 [setting-up-repository-access](setting-up-repository-access/ "mention")
 
-[managing-pckages-with-dnf.md](managing-pckages-with-dnf.md "mention")
+[managing-packages-with-dnf.md](managing-packages-with-dnf.md "mention")
 
 [using-dnf-groups.md](using-dnf-groups.md "mention")
 

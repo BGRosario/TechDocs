@@ -57,7 +57,7 @@
   * [Understanding RPM Packages](lesson-11-managing-software/understanding-rpm-packages.md)
   * [Setting Up Repository Access](lesson-11-managing-software/setting-up-repository-access/README.md)
     * [Optional Demo: Configuring the Installation Disk as Repo](lesson-11-managing-software/setting-up-repository-access/optional-demo-configuring-the-installation-disk-as-repo.md)
-  * [Managing Pckages with dnf](lesson-11-managing-software/managing-pckages-with-dnf.md)
+  * [Managing Packages with dnf](lesson-11-managing-software/managing-packages-with-dnf.md)
   * [Using dnf Groups](lesson-11-managing-software/using-dnf-groups.md)
   * [Exploring Modules and Application Streams](lesson-11-managing-software/exploring-modules-and-application-streams.md)
   * [Managing dnf Updates and History](lesson-11-managing-software/managing-dnf-updates-and-history.md)
