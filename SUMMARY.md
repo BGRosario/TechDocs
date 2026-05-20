@@ -59,7 +59,6 @@
     * [Optional Demo: Configuring the Installation Disk as Repo](lesson-11-managing-software/setting-up-repository-access/optional-demo-configuring-the-installation-disk-as-repo.md)
   * [Managing Packages with dnf](lesson-11-managing-software/managing-packages-with-dnf.md)
   * [Using dnf Groups](lesson-11-managing-software/using-dnf-groups.md)
-  * [Exploring Modules and Application Streams](lesson-11-managing-software/exploring-modules-and-application-streams.md)
   * [Managing dnf Updates and History](lesson-11-managing-software/managing-dnf-updates-and-history.md)
 * [Lesson 12: Monitoring Activity](lesson-12-monitoring-activity/README.md)
   * [Exploring Jobs and Processes](lesson-12-monitoring-activity/exploring-jobs-and-processes.md)
