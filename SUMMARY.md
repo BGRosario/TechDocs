@@ -5,7 +5,7 @@
 * [Lesson 2. Bash Shell](lesson-2.-bash-shell.md)
 * [Lesson 3. Essential Tools](lesson-3.-essential-tools/README.md)
   * [Using VIM](lesson-3.-essential-tools/using-an-editor.md)
-* [Lesson 4: Understanding The Bash Shell](lesson-4-understanding-the-bash-shell/README.md)
+* [Lesson 4: The Bash Shell](lesson-4-understanding-the-bash-shell/README.md)
   * [Using I/O Redirection and Piping](lesson-4-understanding-the-bash-shell/using-i-o-redirection-and-piping.md)
   * [Exploring History](lesson-4-understanding-the-bash-shell/exploring-history.md)
   * [Using Keyboard Shortcuts](lesson-4-understanding-the-bash-shell/using-keyboard-shortcuts.md)
