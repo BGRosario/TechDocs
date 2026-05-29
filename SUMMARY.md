@@ -4,7 +4,7 @@
 * [Lesson 1. Understand Red Hat Enterprise Linux](lesson-1.-understand-red-hat-enterprise-linux.md)
 * [Lesson 2. Bash Shell](lesson-2.-bash-shell.md)
 * [Lesson 3. Essential Tools](lesson-3.-essential-tools/README.md)
-  * [Using an Editor](lesson-3.-essential-tools/using-an-editor.md)
+  * [Using VIM](lesson-3.-essential-tools/using-an-editor.md)
 * [Lesson 4: Understanding The Bash Shell](lesson-4-understanding-the-bash-shell/README.md)
   * [Using I/O Redirection and Piping](lesson-4-understanding-the-bash-shell/using-i-o-redirection-and-piping.md)
   * [Exploring History](lesson-4-understanding-the-bash-shell/exploring-history.md)
