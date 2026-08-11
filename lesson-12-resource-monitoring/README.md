@@ -1,4 +1,4 @@
-# Lesson 12: Monitoring Activity
+# Lesson 12: Resource Monitoring
 
 <details>
 
@@ -12,7 +12,7 @@
 
 [observing-process-information-with-ps.md](observing-process-information-with-ps.md "mention")
 
-[monitoring-memory-usage.md](monitoring-memory-usage.md "mention")
+[monitoring-memory-usage](monitoring-memory-usage/ "mention")
 
 [observing-cpu-load.md](observing-cpu-load.md "mention")
 

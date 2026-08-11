@@ -56,7 +56,7 @@ The first step is to discover the amount of RAM we have in the system. There are
 
 The output may look something like this:
 
-![Show memory information with the dmesg command](<.gitbook/assets/linux dmesg show memory information.png>)
+![Show memory information with the dmesg command](<../../.gitbook/assets/linux dmesg show memory information.png>)
 
 This information shows the number of memory available in kilobytes. The first value shows what is currently available, the second value displays the total memory in the system. These values are usually very close. This indicates that most of the memory can be used and is a good thing. The small portion “missing” is used by the initial loading of the kernel. If there is a big gap, then this might be caused by the kernel and how many memory it can allocate. Especially with 32 bits versions of Linux, this number is limited.
 
@@ -68,11 +68,11 @@ The next step is learning more about the RAM modules itself. You will need the `
 
 Depending on your hardware it may be able to extract the specifics of your modules and show detailed information. You may need to run this as root user. Normal users won’t have the right permissions to read all information.
 
-![Screenshot of dmidecode displaying RAM module information and details on Linux system](<.gitbook/assets/linux ram module information and details.png>)
+![Screenshot of dmidecode displaying RAM module information and details on Linux system](<../../.gitbook/assets/linux ram module information and details.png>)
 
 In this output above you can see the details of the first memory module. We see it is a chip of 4 GB and configured at a 1600 MHz speed. This is a great way to determine the memory available in a Linux system, together with detailed output. Unfortunately, the command does not always play well with virtual systems.
 
-![Empty memory information with dmidecode of hardware type 17](<.gitbook/assets/dmidecode empty memory information for type 17.png>)
+![Empty memory information with dmidecode of hardware type 17](<../../.gitbook/assets/dmidecode empty memory information for type 17.png>)
 
 _No data is displayed on our virtual test system_
 
@@ -86,7 +86,7 @@ After the Linux kernel is booted, it is time to start programs. The kernel itsel
 
 The first command to obtain available memory information is the perfectly named tool `free`.
 
-![Free memory details on Linux](<.gitbook/assets/free memory details on linux.png>)
+![Free memory details on Linux](<../../.gitbook/assets/free memory details on linux.png>)
 
 This utility shows two different types of memory: normal memory and swap memory. Swap is a type of memory that you want to avoid needing as much as possible. If it would be used, then it means your normal memory is full. The system will then leverage the swap memory to temporarily store data, at the cost of disk operations. As they are much slower than normal RAM, your system will be impacted. In this screenshot, we see the swap is not used, which is good.
 
@@ -98,7 +98,7 @@ The next step to obtain everything available regarding memory is found in the pr
 
 `cat /proc/meminfo`
 
-![A partial output listing showing how memory is used from /proc/meminfo](<.gitbook/assets/linux memory information from proc meminfo.png>)
+![A partial output listing showing how memory is used from /proc/meminfo](<../../.gitbook/assets/linux memory information from proc meminfo.png>)
 
 _A partial output listing showing how memory is used_
 
@@ -152,11 +152,11 @@ If you compared these fields with your own system, you will discover there are m
 
 Another nice utility that is often available is [`vmstat`](https://linux-audit.com/system-administration/commands/vmstat/). With `-s` we can query memory statistics.
 
-![Screenshot of vmstat output and details from /proc/meminfo](<.gitbook/assets/compare vmstat and proc meminfo output.png>)
+![Screenshot of vmstat output and details from /proc/meminfo](<../../.gitbook/assets/compare vmstat and proc meminfo output.png>)
 
 We can also query the previous mentioned slabs.
 
-![Details from vmstat about slabs](<.gitbook/assets/vmstat show slab information.png>)
+![Details from vmstat about slabs](<../../.gitbook/assets/vmstat show slab information.png>)
 
 ### Monitoring memory usage in Linux
 
