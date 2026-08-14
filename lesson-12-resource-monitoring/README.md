@@ -14,9 +14,9 @@
 
 [monitoring-memory-usage](monitoring-memory-usage/ "mention")
 
-[observing-cpu-load.md](observing-cpu-load.md "mention")
+[observing-cpu-load](observing-cpu-load/ "mention")
 
-[monitoring-system-activity-with-top.md](monitoring-system-activity-with-top.md "mention")
+[monitoring-system-activity-with-top.md](observing-cpu-load/monitoring-system-activity-with-top.md "mention")
 
 </details>
 
