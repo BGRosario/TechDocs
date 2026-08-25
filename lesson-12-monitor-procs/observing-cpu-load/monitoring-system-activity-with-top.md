@@ -44,3 +44,7 @@ ps aux | grep defunct
 ```
 
 Sometimes, you can remove these dead procs or let the system clear them by itself.&#x20;
+
+***
+
+Process state can be determined based on your load; when using 'top ', you can press 1 to view your CPU cores to review load in depth.&#x20;

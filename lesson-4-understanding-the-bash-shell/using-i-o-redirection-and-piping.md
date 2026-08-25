@@ -8,13 +8,13 @@ There are 3 redirects in Linux&#x20;
 
 ***
 
-Input (**stdin**) - 0
+### Input (**stdin**) - 0
 
 * Input is used when feeding file contents to a file
   * E.g. cat < listings
   * mail -s "Office memo" allusers@abc.com < memoletter
 
-Output (**stdout**) -1&#x20;
+### Output (**stdout**) -1&#x20;
 
 * By default, when running a command its output goes to the terminal&#x20;
 * The output of a command can be routed to a file using > symbol&#x20;
@@ -24,7 +24,7 @@ Output (**stdout**) -1&#x20;
   * E.g. `ls -la >> listings`
   * `echo "Hello World" >> findpath`
 
-Error (**stderr**) -2&#x20;
+### Error (**stderr**) -2&#x20;
 
 * When a command is executed we use a keyboard and that is also considered (stdin -0)
 * That command output goes on the monitor, and that output is (stdout -1)
