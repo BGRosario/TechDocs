@@ -1,6 +1,6 @@
 # Priority Management (Cgroups, nice, renice)
 
-Running procs have their priority. Understanding priority management is very important
+Running procs have a priority. Understanding priority management is very important
 
 In modern Linux to work with priority and apply resource restrictions in Linux systems
 
@@ -22,7 +22,7 @@ Each slice has an equal CPU weight; that means that if one or more procs within 
 
 ***
 
-If no specific Cgroups are dfined, Linux&#x20;
+If no specific Cgroups are defined, Linux&#x20;
 
 * nice&#x20;
 * renice&#x20;
