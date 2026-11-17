@@ -2,7 +2,7 @@
 
 * [READ ME](README.md)
 * [Lesson 2. Bash Shell](lesson-2.-bash-shell.md)
-* [Lesson 3. Essential Tools](lesson-3.-essential-tools/README.md)
+* [Lesson 3. Tools (VIM)](lesson-3.-essential-tools/README.md)
   * [Using VIM](lesson-3.-essential-tools/using-an-editor.md)
 * [Lesson 4: The Bash Shell](lesson-4-understanding-the-bash-shell/README.md)
   * [Using I/O Redirection and Piping](lesson-4-understanding-the-bash-shell/using-i-o-redirection-and-piping.md)
@@ -76,3 +76,4 @@
 * [Understanding Systemd](understanding-systemd/README.md)
   * [Masking Services](understanding-systemd/masking-services.md)
 * [Scheduling Options (Cron, Systemd)](scheduling-options-cron-systemd.md)
+* [Managing Temporary Files](managing-temporary-files.md)
