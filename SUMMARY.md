@@ -73,4 +73,6 @@
   * [Managing Procs Priority](managing-procs/managing-procs-priority.md)
   * [Priority Management (Cgroups, nice, renice)](managing-procs/priority-management-cgroups-nice-renice.md)
   * [Using tuned Profiles](managing-procs/using-tuned-profiles.md)
-* [Understanding Systemd](understanding-systemd.md)
+* [Understanding Systemd](understanding-systemd/README.md)
+  * [Masking Services](understanding-systemd/masking-services.md)
+* [Scheduling Options (Cron, Systemd)](scheduling-options-cron-systemd.md)

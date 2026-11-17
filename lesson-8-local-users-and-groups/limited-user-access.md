@@ -17,7 +17,13 @@ root@bgrosario-darkrai:/home# passwd -S linda
 usermod -U anna #will unlock anna    
 ```
 
-You can also check if the user has a ! at the start of the string in/etc/skel. It would mean the user account is locked. Double !! means that the user has never entered their password. In different ways, you can add a ! in front of the : to lock it
+You can also check if the user has a ! at the start of the string in /etc/skel. It would mean the user account is locked.
+
+&#x20;Double !! means that the user has never entered their password. In different ways, you can add a ! in front of the : to lock it
+
+```
+bryangonzalez:!!$6$rounds=100000$cNPfNoF4Wfk0FRrc$ZVrHL0jAaSnb4bR0vBCr6Nb21qBkuu4JZhlE.mDMkceEaqT5Q03ktI7RMmhmizc0SMEPE9gE1bw3QNpTKSjzs/:20706:0:99999:7:::
+```
 
 ```bash
 linda:! #Locked account 
@@ -30,3 +36,10 @@ linda: #Not locked
 usermod -e 2027-01-01 bill #Expires user account bill on 01-01-2027
 ```
 
+***
+
+Setting password expiry dates:&#x20;
+
+```bash
+Command: chage [OPTIONS]
+```

@@ -36,3 +36,9 @@ These are a handful of units available:&#x20;
 
 ***
 
+Systemd Unit Management Tasks&#x20;
+
+* systemctl status - shows the current status of any unit&#x20;
+  * systemctl status sshd&#x20;
+* The Active: Line in the output shows the current status
+* The Loaded: Line in the output shows which configuration is loaded and whether the unit is enabled for automatic startup.
